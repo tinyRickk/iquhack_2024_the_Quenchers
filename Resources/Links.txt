@@ -1,1 +1,3 @@
-
+https://github.com/Quandela/Perceval/blob/main/docs/source/notebooks/Walkthrough-cnot.ipynb
+https://perceval.quandela.net/docs/backends.html#cliffordclifford2017
+https://github.com/iQuHACK/2024_Quandela_Remote/blob/main/README.md
