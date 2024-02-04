@@ -13,7 +13,7 @@ def get_CCZ() -> pcvl.Processor:
        .add(1, PS(7*pi/4))
        )
   #initializing the processor
-  CCZ_processor = pcvl.Processor("SLOS", 6)
+  CCZ_processor = pcvl.Processor("CliffordClifford2017", 6)
   #Creating the Toffoli gate
   CCZ_processor = (CCZ_processor
                  .add_port(0, Port(Encoding.DUAL_RAIL, 'ctrl'))
